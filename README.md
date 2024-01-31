@@ -1,6 +1,6 @@
+<p align="center">
 # pyScraper
 
-<p align="center">
   <img src="https://github.com/Waltssu/pyScraper/blob/main/img/gui-example.png?raw=true" alt="Application GUI" style="box-shadow: 10px 10px 5px black;">
 </p>
 
